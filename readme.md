@@ -10,3 +10,5 @@
 
 > "deviceId": 在 APP 中抓取，找到/portal/api/user-sign/v2/sign，在该 request 参数里。
 > "authorization": 从该 API 的 headers 中获取。
+
+其实九号签到目前不怎么给n币了，我已经很久没有在一周签到礼盒中抽出n币了。😅
